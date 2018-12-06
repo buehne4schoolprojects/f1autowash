@@ -1,0 +1,133 @@
+body {
+    background-image: url("finishflag.png");
+}
+
+div.headbar {
+    background-color: red;
+    width: 99%;
+    height: 200px;
+    border: 5px solid dimgray;
+    color: black;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    line-height: 1.27;
+}
+
+button.home {
+    background-color: red;
+    border: 2px solid dimgray;
+    width: 226px;
+    height: 100px;
+    color: black;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+button.home:hover {
+    background-color: darkred;
+    color: white;
+}
+
+button.services {
+    background-color: red;
+    border: 2px solid dimgray;
+    width: 226px;
+    height: 100px;
+    color: black;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+button.services:hover {
+    background-color: darkred;
+    color: white;
+}
+
+button.store {
+    background-color: red;
+    border: 2px solid dimgray;
+    width: 226px;
+    height: 100px;
+    color: black;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+button.store:hover {
+    background-color: darkred;
+    color: white;
+}
+
+button.about {
+    background-color: red;
+    border: 2px solid dimgray;
+    width: 226px;
+    height: 100px;
+    color: black;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+button.about:hover {
+    background-color: darkred;
+    color: white;
+}
+
+button.contact {
+    background-color: red;
+    border: 2px solid dimgray;
+    width: 226px;
+    height: 100px;
+    color: black;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+button.contact:hover {
+    background-color: darkred;
+    color: white;
+}
+
+div.body {
+    background-color: lightgray;
+    width: 99.7%;
+    color: black;
+    padding-top: 30px;
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table, td, th {
+    border: 1px solid black;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
+
+ul {
+    font-size: 25px;
+}
+
+h3 {
+    text-align: center;
+}
